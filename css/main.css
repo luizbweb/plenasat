@@ -172,6 +172,7 @@ ul.nostyle i {
     -webkit-box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
     font-size: 9pt;
+    height: 100px;
   }
   #main-menu.navbar-default .navbar-nav > li > a {
     position: relative;
